@@ -5,7 +5,7 @@
 - ◊ Sempre buscando conhecimento ▵
 - ⁖ Estudando Java ⁛
 
-#
+
 <!--
 <div>
   <a href="https://github.com/sarahsj-dot">
