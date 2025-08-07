@@ -1,11 +1,13 @@
-# 💕 Sarah Santos
+<h1 align="center">Sarah Santos</h1>
+...
+<p align="center">
+- ◊ Sempre buscando conhecimento ▵
+- ⁖ Estudando Java ⁛
+</p>
 ...
 
 
-- ◊ Sempre buscando conhecimento ▵
-- ⁖ Estudando Java ⁛
-
-
+![](./profile-3d-contrib/profile-night-view.svg)
 <!--
 <div>
   <a href="https://github.com/sarahsj-dot">
