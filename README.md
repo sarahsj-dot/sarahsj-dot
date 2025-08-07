@@ -1,10 +1,11 @@
 <h1 align="center">Sarah Santos</h1>
 ...
 <p align="center">
-- ◊ Sempre buscando conhecimento ▵
-- ⁖ Estudando Java ⁛
+ ◊ Sempre buscando conhecimento ▵
 </p>
-...
+<p align="center">
+ ⁖ Estudando Java ⁛
+  </p>
 
 
 ![](./profile-3d-contrib/profile-night-view.svg)
