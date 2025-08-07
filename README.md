@@ -1,4 +1,4 @@
-# 💕 Oi! Eu sou a Sarah, bem-vindo ao meu perfil!
+# 💕 Sarah Santos
 ...
 
 
